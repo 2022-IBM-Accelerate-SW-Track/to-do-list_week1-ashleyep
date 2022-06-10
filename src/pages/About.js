@@ -27,10 +27,21 @@ export default class About extends Component {
           <div className="centered">
             <div className="name_title">Ashley Philip</div>
             <div className="brief_description">
-               I am a rising sophomore at the University of Michigan. I'm studying Computer 
-               Science in the College of Engineering, with a minor in Art and Design. 
-               Some of my favorite activities include: reading, watching TV, playing with my dog, 
-               crocheting and knitting. 
+              <ul>
+                <li>University of Michigan Class of 2025</li>
+                <li>Major: Computer Science Engineering</li>
+                <li>Minor: Art & Design </li>
+              </ul>
+              Hobbies 
+              <ul>
+                <li>Reading, Watching TV, Listening to Music </li>
+                <li>Crocheting, Knitting, Painting, Drawing</li>
+                <li>Playing with my Dog</li>
+              </ul>
+              Fun Facts
+              <ul>
+                <li>I've had 3 beta fishes all named Oceay but with "Junior" and "Junior Junior" tacked on</li>
+              </ul>
             </div>
           </div>
         </div>
