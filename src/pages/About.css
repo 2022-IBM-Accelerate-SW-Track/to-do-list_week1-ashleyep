@@ -10,7 +10,7 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: #5d8c5e;
 }
 
 .right {
@@ -27,16 +27,18 @@
 
 .name_title {
   font-size: 48px;
-  color: black;
-  text-align: left;
+  font-family: Brush Script MT;
+  color: #5d8c5e;
+  text-align: center;
   padding-bottom: 20px;
 }
 
 .brief_description {
-  text-align: left;
+  text-align: center;
+  font-family:'Courier New';
 }
 
 .profile_image {
-  width: 500px;
+  width: 330px;
   height: auto;
 }
